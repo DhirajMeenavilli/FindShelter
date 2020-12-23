@@ -1,0 +1,14 @@
+.sideBar{
+    position: absolute;
+    left: 0px;
+    width: 20vw;
+    background-color: rgba(228, 224, 216, 0.418);
+    top: 0px;
+}
+
+.check{
+    font-size: 1.75em;
+    font-weight: bolder;
+    color: black;
+    padding-top: 8px;
+}
